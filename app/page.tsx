@@ -3,14 +3,14 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="flex items-center h-screen relative bg-cover bg-[url('/assets/bg-explosion.png')]">
+    <main className="flex items-center h-screen relative bg-cover bg-[url('/assets/melon.jpg')]">
       <div className="absolute right-0 top-0 h-full w-[80%] z-[2]">
         <Particle />
       </div>
       <div className="absolute right-10 md:right-40 bottom-0 z-[10]">
         <Image
-          src="/assets/MoustacheMan.png"
-          alt="MoustacheMan"
+          src="/assets/melon.jpg"
+          alt="melon"
           width={560}
           height={560}
           className="w-[300px] h-[300px] z-[1] md:h-[560px] md:w-[560px]"
