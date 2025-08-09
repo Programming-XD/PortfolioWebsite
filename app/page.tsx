@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="flex items-center h-screen relative bg-cover bg-[url('/assets/melon.jpg')]">
+    <main className="flex items-center h-screen relative bg-cover bg-[url('/assets/background.jpg')]">
       <div className="absolute right-0 top-0 h-full w-[80%] z-[2]">
         <Particle />
       </div>
