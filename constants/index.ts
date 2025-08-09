@@ -14,14 +14,17 @@ export const Socials = [
   {
     name: "Discord",
     src: "/assets/discord.svg",
+    link: "https://discord.com/frmelon",
   },
   {
-    name: "Facebook",
+    name: "Telegram",
     src: "/assets/facebook.svg",
+    link: "https://t.me/akitoxd",
   },
   {
     name: "Instagram",
     src: "/assets/instagram.svg",
+    link: "https://instagram.com/damn_samar",
   },
 ];
 
@@ -77,37 +80,37 @@ export const ServiceData = [
   {
     icon: RxReader,
     title: "Seo",
-    content: "We optimize your website to rank higher on search engines and reach more customers.",
+    content: "I optimize your website to rank higher on search engines and reach more customers.",
     backgroundImage: "/assets/space/SpaceCity7.jpeg",
   },
   {
     icon: RxCrop,
     title: "Development",
-    content: "We build fast, secure, and scalable applications tailored to your business needs.",
+    content: "I build fast, secure, and scalable applications tailored to your business needs.",
     backgroundImage: "/assets/space/SpaceCity9.jpeg",
   },
   {
     icon: RxPencil2,
     title: "Branding",
-    content: "We create unique brand identities that make your business stand out from the competition.",
+    content: "I create unique brand identities that make your business stand out from the competition.",
     backgroundImage: "/assets/space/SpaceCity1.jpg",
   },
   {
     icon: RxDesktop,
     title: "Design",
-    content: "We craft visually stunning and user-friendly designs for websites and applications.",
+    content: "I craft visually stunning and user-friendly designs for websites and applications.",
     backgroundImage: "/assets/space/SpaceCity6.jpeg",
   },
   {
     icon: RxAccessibility,
     title: "Management",
-    content: "We provide effective project and business management solutions to ensure success.",
+    content: "I provide effective project and business management solutions to ensure success.",
     backgroundImage: "/assets/space/SpaceCity5.jpeg",
   },
   {
     icon: RxRocket,
     title: "Production",
-    content: "We deliver high-quality products and services with efficiency and precision.",
+    content: "I deliver high-quality products and services with efficiency and precision.",
     backgroundImage: "/assets/space/SpaceCity8.jpeg",
   },
 ];
