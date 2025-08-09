@@ -8,14 +8,6 @@ export default function Home() {
         <Particle />
       </div>
 
-      <Image
-        src="/assets/melon.jpg"
-        alt="paint"
-        width={230}
-        height={230}
-        className="absolute left-0 top-0"
-      />
-
       <div className="flex flex-col gap-3 z-[10] pl-40 pt-20">
         <h1 className="text-[50px] text-white max-w-[500px]">
           Transforming ideas into{" "}
