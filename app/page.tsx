@@ -30,8 +30,8 @@ export default function Home() {
           <span className="text-red-500">Digital Reality</span>
         </h1>
         <p className="text-[16px] text-gray-200 md:text-gray-400 mb-10 md:pb-2 max-w-[400px]">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua
+          Pain itself is something to be loved, but let it be at the same time the main thing, 
+          so that through it pain may be avoided…
         </p>
         <div className="relative w-[100px] h-[100px] md:w-[160px] md:h-[160px] mt-5">
           <Image
