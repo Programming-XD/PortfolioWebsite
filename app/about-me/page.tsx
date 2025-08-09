@@ -10,8 +10,7 @@ const Page = () => {
           My Skills<span className="text-red-500">.</span>
         </h1>
         <p className="max-w-[350px] text-[16px] text-gray-200 md:text-gray-400">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua
+         Pain itself is something to be loved, but let it be at the same time the main thing, so that through it pain may be avoided…
         </p>
         </div>
         <div className='absolute -left-36 bottom-5 rotate-12 animate-pulse duration-75'>
