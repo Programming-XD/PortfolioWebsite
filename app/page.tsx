@@ -7,17 +7,9 @@ export default function Home() {
       <div className="absolute right-0 top-0 h-full w-[80%] z-[2]">
         <Particle />
       </div>
-      <div className="absolute right-10 md:right-40 bottom-0 z-[10]">
-        <Image
-          src="/assets/melon.jpg"
-          alt="melon"
-          width={560}
-          height={560}
-          className="w-[300px] h-[300px] z-[1] md:h-[560px] md:w-[560px]"
-        />
-      </div>
+
       <Image
-        src="/assets/top-left-img.png"
+        src="/assets/melon.jpg"
         alt="paint"
         width={230}
         height={230}
